@@ -1,3 +1,12 @@
+# Installation
+
+Download the appropriate realease files:
+- [EXOlineDriver-rt.jar](https://github.com/mc-simaodias/EXOlineDriver/releases) (Obligatory);
+- [EXOlineDriver-wb.jar](https://github.com/mc-simaodias/EXOlineDriver/releases) (Obligatory);
+- [EXOlineDriver-doc.jar](https://github.com/mc-simaodias/EXOlineDriver/releases) (Optional);
+
+Paste them into the modules folder inside your Niagara installation directory ```C:\Niagara\Niagara-4.x.x.x\modules```.
+
 # Change log
 
 ## Version 1.2.5 - Point descriptions
