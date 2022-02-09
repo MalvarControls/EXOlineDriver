@@ -9,6 +9,11 @@ Paste them into the modules folder inside your Niagara installation directory ``
 
 # Change log
 
+## Version 1.2.6 - Point descriptions
+Date: 09/02/2022
+
+- Discovery of OIA28MIXW3BEM now works as intended. 
+
 ## Version 1.2.5 - Point descriptions
 Date: 07/02/2022
 
