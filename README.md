@@ -9,7 +9,12 @@ Paste them into the modules folder inside your Niagara installation directory ``
 
 # Change log
 
-## Version 1.2.6 - Point descriptions
+## Version 1.2.7 - Update Templates
+Date: 14/02/2022
+
+- Discovery of OIA28MIXW3BEM and OIA15MIXW3BEM points updated to reflect newer releases.
+
+## Version 1.2.6 - Tempalte point discovery
 Date: 09/02/2022
 
 - Discovery of OIA28MIXW3BEM now works as intended. 
