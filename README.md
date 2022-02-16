@@ -9,6 +9,11 @@ Paste them into the modules folder inside your Niagara installation directory ``
 
 # Change log
 
+## Version 1.2.8 - Discovery fixes
+Date: 16/02/2022
+
+- Discovery of VPACs that specified 'AlignWithSegments' have been fixed. Depending on data types some addresses where being calculated incorrectly.
+
 ## Version 1.2.7 - Update Templates
 Date: 14/02/2022
 
