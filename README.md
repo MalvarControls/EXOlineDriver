@@ -7,6 +7,9 @@ Download the appropriate realease files:
 
 Paste them into the modules folder inside your Niagara installation directory ```C:\Niagara\Niagara-4.x.x.x\modules```.
 
+## Dependencies
+- This module requires [malvarCertificates](https://github.com/MalvarControls/malvarCertificates) to be installed;
+
 # Change log
 
 ## Version 1.2.8 - Discovery fixes
